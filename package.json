@@ -19,5 +19,8 @@
   "homepage": "https://github.com/nakagawa-xpoint1/typescript-for-javascript-developers#readme",
   "devDependencies": {
     "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "ts-node": "^8.6.2"
   }
 }
