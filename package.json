@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "ts-node-dev --respawn"
+    "dev": "npx ts-node-dev"
   },
   "repository": {
     "type": "git",
@@ -19,9 +19,7 @@
   },
   "homepage": "https://github.com/nakagawa-xpoint1/typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "ts-node": "^8.5.4",
     "typescript": "^3.7.5"
-  },
-  "dependencies": {
-    "ts-node": "^8.6.2"
   }
 }
